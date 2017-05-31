@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import math
 print("\t Welcome To the Time Dilation Calculator")
 t=input("Elapsed Time at body(seconds): ")
